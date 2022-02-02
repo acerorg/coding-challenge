@@ -27,7 +27,7 @@ This coding challenge is designed to assess following skills
     1. You can leave detailed instructions including prerequisites, command to run application and command to run tests
     2. Place the instructions in README.md
   - ##### Option: JavaScript/TypeScript with NPM scripts
-    1. Try adding scripts `package.json` to run the application and tests
+    1. Try adding scripts to `package.json` to run the application and tests
 
 ## Continuous Integration
 1. Use GitHub Actions to run tests
