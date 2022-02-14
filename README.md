@@ -1,4 +1,4 @@
-# ACER Coding challenge
+# ACER coding challenge
 
 With this challenge we hope to learn how you approach technical tasks.
 
@@ -38,11 +38,27 @@ Your task involves creating a simple assessment reporting system. You will take 
 
 ### Input files
 
+#### Students
+`students.json`
+#### Assessments
+`assessments.json`
+#### Items
+`items.json`
+#### Assessment Responses
+`student-responses.json`
+
 ### The reports
+The reports will include:
+1. A diagnostic report which tells the student where they might have areas of weakness
+2. A progress report which tells the student how much they have improved over the year
+3. A feedback report providing information about where a student went wrong on individual questions and offers hints on how answer these questions corrects
 
-### Data files
+Any assessments with a completed date are considered complete. Incomplete assessments should be ignored
 
-### Assessment responses
+### Report generator
+### Diagnostic report
+### Progress report
+### Feedback report
 
 ## Delivery Requirements
 
