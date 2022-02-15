@@ -1,0 +1,32 @@
+[
+  {
+    "id": "numeracy1",
+    "description": "Numeracy 1",
+    "stem": "-2 + 2 =",
+    "type": "multiple-choice",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "0" },
+        { "id": "option2", "label": "B", "value": "-4" },
+        { "id": "option3", "label": "C", "value": "4" },
+        { "id": "option4", "label": "D", "value": "None of the above" }
+      ],
+      "key": "option1"
+    }
+  },
+  {
+    "id": "reading1",
+    "description": "Reading Comprehension 1",
+    "stem": "Twinkle twinkle little _______",
+    "type": "multiple-choice",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "shiny star" },
+        { "id": "option2", "label": "B", "value": "sun" },
+        { "id": "option3", "label": "C", "value": "star" },
+        { "id": "option4", "label": "D", "value": "None of the above" }
+      ],
+      "key": "option2"
+    }
+  }
+]

@@ -43,7 +43,7 @@ Your task involves creating a simple assessment reporting system. You will take 
 #### Assessments
 `assessments.json`
 #### Items
-`items.json`
+`questions.json`
 #### Assessment Responses
 `student-responses.json`
 
