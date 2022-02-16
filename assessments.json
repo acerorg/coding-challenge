@@ -8,15 +8,5 @@
         "position": 1
       }
     ]
-  },
-  {
-    "id": "assessment2",
-    "name": "Reading Comprehension",
-    "questions": [
-      {
-        "questionId": "reading1",
-        "position": 1
-      }
-    ]
   }
 ]
