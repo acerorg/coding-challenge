@@ -33,14 +33,11 @@ This coding challenge is designed to assess the following
 * Automated tests and Test coverage
 * Proficiency in chosen language and tool sets
 
-## Reporting Requirements
-Your task involves creating a simple assessment reporting system. You will take the response files from assessments that have already been taken and generate three reports
-
-### The reports
-The reports will include:
-1. A diagnostic report which tells the student where they might have areas of weakness
-2. A progress report which tells the student how much they have improved over the year
-3. A feedback report providing information about where a student went wrong on individual questions and offers hints on how answer these questions corrects
+## Requirements
+Your task involves creating a simple assessment reporting system. You will take the response files from assessments that have already been taken and generate three reports. They include:
+1. A **diagnostic report** which tells the student where they might have areas of weakness
+2. A **progress report** which tells the student how much they have improved over the year
+3. A **feedback report** providing information about where a student went wrong on individual questions and offers hints on how answer these questions corrects
 
 Any assessments with a completed date are considered complete. Incomplete assessments should be ignored
 
@@ -95,8 +92,6 @@ Right answer: B with value 9
 Hint: You must first arrange the numbers in ascending order. The median is the middle term, which in this case is 9
 
 ```
-
-## Delivery Requirements
 
 ## Development Environment - Technical Details
 1. You can choose either PHP, JavaScript or TypeScript to complete this coding challenge.
