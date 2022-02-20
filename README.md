@@ -36,17 +36,6 @@ This coding challenge is designed to assess the following
 ## Reporting Requirements
 Your task involves creating a simple assessment reporting system. You will take the response files from assessments that have already been taken and generate three reports
 
-### Input files
-
-#### Students
-`students.json`
-#### Assessments
-`assessments.json`
-#### Items
-`questions.json`
-#### Assessment Responses
-`student-responses.json`
-
 ### The reports
 The reports will include:
 1. A diagnostic report which tells the student where they might have areas of weakness
@@ -55,8 +44,36 @@ The reports will include:
 
 Any assessments with a completed date are considered complete. Incomplete assessments should be ignored
 
-### Report generator
-### Diagnostic report
+### Data
+Following files has the input required to write a reporting system. The data is in JSON format. Primarily there are 4 entities, as given below.
+
+* **Students**. A student represent a person taking the assessment. Data is in `data/students.json`
+* **Assessments**: An assessment is given to student to sit. Each assessment will have set of questions that a student will answer. Data is in `data/assessments.json`
+* **Questions**: A question is part of the assessment which student has to respond to when an assessment is assigned. An assessment will have multiple questions. Data is in `data/questions.json`. Each question is given a Strand and has a hint.
+* **Assessment Responses**: Assessment Responses has all the student responses in it. Each assessment response include student, assessment and responses to questions in the assessment `data/student-responses.json`
+
+### Task
+
+1. Build a CLI application. You can use a framework, if you want.
+2. When application is executed, it should take 2 values as input. Student ID and Report to generate (Either Diagnostic, Progress or Feedback)
+3. Using the data provided in the Data section, generate the report. Sample output given below
+
+#### CLI application requesting user input
+```
+Please enter the following
+Student ID: student1
+Report to generate (1 for Diagnostic, 2 for Progress, 3 for Feedback): <report-number-by-user>
+```
+#### Diagnostic report's sample output
+```
+Tony Stark recently completed Numeracy assessment on 16th December 2021 10:46 AM
+He got 6 questions right out of 16. Details below:
+
+Numeracy and Algebra: 5 out of 5 correct
+Measurement and Geometry: 7 out of 7 correct
+Statistics and Probability: 3 out of 4 correct  
+
+```
 ### Progress report
 ### Feedback report
 
