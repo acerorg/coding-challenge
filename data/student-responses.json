@@ -1,0 +1,621 @@
+[
+  {
+    "id": "studentReponse1",
+    "assessmentId": "assessment1",
+    "assigned": "14/12/2019 10:31:00",
+    "started": "16/12/2019 10:00:00",
+    "completed": "16/12/2019 10:46:00",
+    "student": {
+      "id": "student1",
+      "yearLevel": 3
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy7",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy8",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy9",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy10",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy11",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy12",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy13",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy14",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy15",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy16",
+        "response": "option1"
+      }
+    ],
+    "results": {
+      "rawScore": 6
+    }
+  },
+  {
+    "id": "studentReponse2",
+    "assessmentId": "assessment1",
+    "assigned": "14/12/2020 10:31:00",
+    "started": "16/12/2020 10:00:00",
+    "completed": "16/12/2020 10:46:00",
+    "student": {
+      "id": "student1",
+      "yearLevel": 4
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy7",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy8",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy9",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy10",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy11",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy12",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy13",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy14",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy15",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy16",
+        "response": "option1"
+      }
+    ],
+    "results": {
+      "rawScore": 10
+    }
+  },
+  {
+    "id": "studentReponse3",
+    "assessmentId": "assessment1",
+    "assigned": "14/12/2021 10:31:00",
+    "started": "16/12/2021 10:00:00",
+    "completed": "16/12/2021 10:46:00",
+    "student": {
+      "id": "student1",
+      "yearLevel": 5
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy7",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy8",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy9",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy10",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy11",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy12",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy13",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy14",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy15",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy16",
+        "response": "option1"
+      }
+    ],
+    "results": {
+      "rawScore": 15
+    }
+  },
+  {
+    "id": "studentReponse4",
+    "assessmentId": "assessment1",
+    "assigned": "14/12/2019 10:31:00",
+    "started": "16/12/2019 10:00:00",
+    "completed": "16/12/2019 10:46:00",
+    "student": {
+      "id": "student2",
+      "yearLevel": 3
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy7",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy8",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy9",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy10",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy11",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy12",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy13",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy14",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy15",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy16",
+        "response": "option1"
+      }
+    ],
+    "results": {
+      "rawScore": 8
+    }
+  },
+  {
+    "id": "studentReponse5",
+    "assessmentId": "assessment1",
+    "assigned": "14/12/2020 10:31:00",
+    "started": "16/12/2020 10:00:00",
+    "completed": "16/12/2020 10:46:00",
+    "student": {
+      "id": "student2",
+      "yearLevel": 4
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy7",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy8",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy9",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy10",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy11",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy12",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy13",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy14",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy15",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy16",
+        "response": "option1"
+      }
+    ],
+    "results": {
+      "rawScore": 10
+    }
+  },
+  {
+    "id": "studentReponse6",
+    "assessmentId": "assessment1",
+    "assigned": "14/12/2021 10:31:00",
+    "started": "16/12/2021 10:00:00",
+    "completed": "16/12/2021 10:46:00",
+    "student": {
+      "id": "student2",
+      "yearLevel": 5
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy7",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy8",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy9",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy10",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy11",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy12",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy13",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy14",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy15",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy16",
+        "response": "option2"
+      }
+    ],
+    "results": {
+      "rawScore": 12
+    }
+  },
+  {
+    "id": "studentReponse7",
+    "assessmentId": "assessment1",
+    "assigned": "14/12/2019 10:31:00",
+    "started": "16/12/2019 10:00:00",
+    "completed": "16/12/2019 10:46:00",
+    "student": {
+      "id": "student3",
+      "yearLevel": 3
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy7",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy8",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy9",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy10",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy11",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy12",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy13",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy14",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy15",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy16",
+        "response": "option1"
+      }
+    ],
+    "results": {
+      "rawScore": 4
+    }
+  },
+  {
+    "id": "studentReponse8",
+    "assessmentId": "assessment1",
+    "assigned": "14/12/2020 10:31:00",
+    "started": "16/12/2020 10:00:00",
+    "completed": "16/12/2020 10:46:00",
+    "student": {
+      "id": "student3",
+      "yearLevel": 4
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy7",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy8",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy9",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy10",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy11",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy12",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy13",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy14",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy15",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy16",
+        "response": "option2"
+      }
+    ],
+    "results": {
+      "rawScore": 12
+    }
+  },
+  {
+    "id": "studentReponse9",
+    "assessmentId": "assessment1",
+    "assigned": "14/12/2021 10:31:00",
+    "started": "16/12/2021 10:00:00",
+    "completed": "16/12/2021 10:46:00",
+    "student": {
+      "id": "student3",
+      "yearLevel": 5
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy7",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy8",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy9",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy10",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy11",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy12",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy13",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy14",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy15",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy16",
+        "response": "option2"
+      }
+    ],
+    "results": {
+      "rawScore": 16
+    }
+  },
+  {
+    "id": "studentReponse1",
+    "assessmentId": "assessment1",
+    "assigned": "14/01/2022 10:31:00",
+    "started": "16/01/2022 10:00:00",
+    "student": {
+      "id": "student1",
+      "yearLevel": 3
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option1"
+      }
+    ],
+    "results": {
+      "rawScore": 6
+    }
+  }
+]

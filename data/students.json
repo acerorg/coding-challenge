@@ -1,0 +1,20 @@
+[
+  {
+    "id": "student1",
+    "firstName": "Tony",
+    "lastName": "Stark",
+    "yearLevel": 6
+  },
+  {
+    "id": "student2",
+    "firstName": "Steve",
+    "lastName": "Rogers",
+    "yearLevel": 6
+  },
+  {
+    "id": "student3",
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "yearLevel": 6
+  }
+]

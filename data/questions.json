@@ -1,0 +1,274 @@
+[
+  {
+    "id": "numeracy1",
+    "stem": "What is the value of 2 + 3 x 5?",
+    "type": "multiple-choice",
+    "strand": "Number and Algebra",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "10" },
+        { "id": "option2", "label": "B", "value": "15" },
+        { "id": "option3", "label": "C", "value": "17" },
+        { "id": "option4", "label": "D", "value": "25" }
+      ],
+      "key": "option3",
+      "hint": "Work out the multiplication sign BEFORE the addition sign"
+    }
+  },
+  {
+    "id": "numeracy2",
+    "stem": "The word 'prime' is an abbreviation for what?",
+    "type": "multiple-choice",
+    "strand": "Number and Algebra",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "Primary" },
+        { "id": "option2", "label": "B", "value": "Primative" },
+        { "id": "option3", "label": "C", "value": "Priority" },
+        { "id": "option4", "label": "D", "value": "It is not an abbreviation" }
+      ],
+      "key": "option4",
+      "hint": "Prime is a word in its own right"
+    }
+  },
+  {
+    "id": "numeracy3",
+    "stem": "Is the number 1 a prime number?",
+    "type": "multiple-choice",
+    "strand": "Number and Algebra",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "Yes, because it is a positive whole number" },
+        { "id": "option2", "label": "B", "value": "No" },
+        { "id": "option3", "label": "C", "value": "Sometimes" },
+        { "id": "option4", "label": "D", "value": "Yes, because it is only divisible by itself and 1" }
+      ],
+      "key": "option2",
+      "hint": "The number 1 has only one factor - itself. Remember the rule, a prime number has TWO factors itself AND 1"
+    }
+  },
+  {
+    "id": "numeracy4",
+    "stem": "Which of these numbers is a prime number?",
+    "type": "multiple-choice",
+    "strand": "Number and Algebra",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "4" },
+        { "id": "option2", "label": "B", "value": "7" },
+        { "id": "option3", "label": "C", "value": "9" },
+        { "id": "option4", "label": "D", "value": "12" }
+      ],
+      "key": "option2",
+      "hint": "All the incorrect answers have three or more factors"
+    }
+  },
+  {
+    "id": "numeracy5",
+    "stem": "What is the correct sequence for mathematical operations?",
+    "type": "multiple-choice",
+    "strand": "Number and Algebra",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "Addition, Brackets, Division, Order, Multiplication, Subtraction" },
+        { "id": "option2", "label": "B", "value": "Brackets, Division, Addition, Order, Multiplication, Subtraction" },
+        { "id": "option3", "label": "C", "value": "Brackets, Order, Division, Multiplication, Addition, Subtraction" },
+        { "id": "option4", "label": "D", "value": "Subtraction, Addition, Multiplication, Division, Order, Brackets" }
+      ],
+      "key": "option3",
+      "hint": "They don't call it BODMAS for nothing!"
+    }
+  },
+  {
+    "id": "numeracy6",
+    "stem": "Which of these statements is true?",
+    "type": "multiple-choice",
+    "strand": "Measurement and Geometry",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "1 mile > 2 km" },
+        { "id": "option2", "label": "B", "value": "1 mile < 1.5 km" },
+        { "id": "option3", "label": "C", "value": "1 mile > 1.5 km" },
+        { "id": "option4", "label": "D", "value": "1 mile = 1.5 km" }
+      ],
+      "key": "option3",
+      "hint": "1 mile is more than 1.5 km but less than 2 km"
+    }
+  },
+  {
+    "id": "numeracy7",
+    "stem": "Which unit is best to measure the volume of water in a swimming pool?",
+    "type": "multiple-choice",
+    "strand": "Measurement and Geometry",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "kg" },
+        { "id": "option2", "label": "B", "value": "ml" },
+        { "id": "option3", "label": "C", "value": "cm" },
+        { "id": "option4", "label": "D", "value": "litre" }
+      ],
+      "key": "option4",
+      "hint": "There may be 1,000s of litres of water in a swimming pool"
+    }
+  },
+  {
+    "id": "numeracy8",
+    "stem": "How many grams are equivalent to one hundredth of a kg?",
+    "type": "multiple-choice",
+    "strand": "Measurement and Geometry",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "0.1g" },
+        { "id": "option2", "label": "B", "value": "1g" },
+        { "id": "option3", "label": "C", "value": "1.1g" },
+        { "id": "option4", "label": "D", "value": "10g" }
+      ],
+      "key": "option4",
+      "hint": "There are 1,000g in a kg so 1,000 ÷ 100 = 10"
+    }
+  },
+  {
+    "id": "numeracy9",
+    "stem": "What is 156cm to the nearest metre?",
+    "type": "multiple-choice",
+    "strand": "Measurement and Geometry",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "1m" },
+        { "id": "option2", "label": "B", "value": "2m" },
+        { "id": "option3", "label": "C", "value": "15m" },
+        { "id": "option4", "label": "D", "value": "16m" }
+      ],
+      "key": "option2",
+      "hint": "As there are 100 cm in a m, this is the same as rounding to the nearest hundred"
+    }
+  },
+  {
+    "id": "numeracy10",
+    "stem": "What is three quarters of 1 metre in cm?",
+    "type": "multiple-choice",
+    "strand": "Measurement and Geometry",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "0.75cm" },
+        { "id": "option2", "label": "B", "value": "75cm" },
+        { "id": "option3", "label": "C", "value": "750cm" },
+        { "id": "option4", "label": "D", "value": "7500cm" }
+      ],
+      "key": "option2",
+      "hint": "Three quarters of 100 is 75"
+    }
+  },
+  {
+    "id": "numeracy10",
+    "stem": "What is three quarters of 1 metre in cm?",
+    "type": "multiple-choice",
+    "strand": "Measurement and Geometry",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "0.75cm" },
+        { "id": "option2", "label": "B", "value": "75cm" },
+        { "id": "option3", "label": "C", "value": "750cm" },
+        { "id": "option4", "label": "D", "value": "7500cm" }
+      ],
+      "key": "option2",
+      "hint": "Three quarters of 100 is 75"
+    }
+  },
+  {
+    "id": "numeracy11",
+    "stem": "How do we write 4,520ml in litres?",
+    "type": "multiple-choice",
+    "strand": "Measurement and Geometry",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "0.452 l" },
+        { "id": "option2", "label": "B", "value": "4.52 l" },
+        { "id": "option3", "label": "C", "value": "45.2 l" },
+        { "id": "option4", "label": "D", "value": "452 l" }
+      ],
+      "key": "option2",
+      "hint": "To convert millilitres to litres, divide by 1,000"
+    }
+  },
+  {
+    "id": "numeracy12",
+    "stem": "Roughly how many litres in 1 gallon?",
+    "type": "multiple-choice",
+    "strand": "Measurement and Geometry",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "4 litres" },
+        { "id": "option2", "label": "B", "value": "5 litres" },
+        { "id": "option3", "label": "C", "value": "8 litres" },
+        { "id": "option4", "label": "D", "value": "10 litres" }
+      ],
+      "key": "option2",
+      "hint": "A gallon is slightly less than 5 litres"
+    }
+  },
+  {
+    "id": "numeracy13",
+    "stem": "THe probability of an event occurring is 0.35. What is the probability of it not occurring?",
+    "type": "multiple-choice",
+    "strand": "Statistics and Probability",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "-0.35" },
+        { "id": "option2", "label": "B", "value": "0.35" },
+        { "id": "option3", "label": "C", "value": "0.65" },
+        { "id": "option4", "label": "D", "value": "1.35" }
+      ],
+      "key": "option3",
+      "hint": "A single event either occurs or does not occur, and so the total of their probabilities must equal 1"
+    }
+  },
+  {
+    "id": "numeracy14",
+    "stem": "What is the mean of the following group of numbers 8, 3, 5, 12, 10?",
+    "type": "multiple-choice",
+    "strand": "Statistics and Probability",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "7.6" },
+        { "id": "option2", "label": "B", "value": "30" },
+        { "id": "option3", "label": "C", "value": "11.6" },
+        { "id": "option4", "label": "D", "value": "5" }
+      ],
+      "key": "option1",
+      "hint": "You must first add all the numbers together and then divide this sum by 5"
+    }
+  },
+  {
+    "id": "numeracy15",
+    "stem": "What is the 'mode' of the following group of numbers 1, 2, 3, 4, 5, 6, 7?",
+    "type": "multiple-choice",
+    "strand": "Statistics and Probability",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "4" },
+        { "id": "option2", "label": "B", "value": "There is no mode" },
+        { "id": "option3", "label": "C", "value": "0" },
+        { "id": "option4", "label": "D", "value": "Real numbers" }
+      ],
+      "key": "option2",
+      "hint": "The 'mode' is defined as the value that occurs most frequently in a given group of numbers: that is why there is no mode in this group"
+    }
+  },
+  {
+    "id": "numeracy16",
+    "stem": "What is the 'median' of the following group of numbers 5, 21, 7, 18, 9?",
+    "type": "multiple-choice",
+    "strand": "Statistics and Probability",
+    "config": {
+      "options": [
+        { "id": "option1", "label": "A", "value": "7" },
+        { "id": "option2", "label": "B", "value": "9" },
+        { "id": "option3", "label": "C", "value": "4.5" },
+        { "id": "option4", "label": "D", "value": "2" }
+      ],
+      "key": "option2",
+      "hint": "You must first arrange the numbers in ascending order. The median is the middle term, which in this case is 9"
+    }
+  }
+]
