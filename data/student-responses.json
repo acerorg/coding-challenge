@@ -583,5 +583,39 @@
     "results": {
       "rawScore": 16
     }
+  },
+  {
+    "id": "studentReponse1",
+    "assessmentId": "assessment1",
+    "assigned": "14/01/2022 10:31:00",
+    "started": "16/01/2022 10:00:00",
+    "student": {
+      "id": "student1",
+      "yearLevel": 3
+    },
+    "responses": [
+      {
+        "questionId": "numeracy1",
+        "response": "option3"
+      }, {
+        "questionId": "numeracy2",
+        "response": "option4"
+      }, {
+        "questionId": "numeracy3",
+        "response": "option2"
+      }, {
+        "questionId": "numeracy4",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy5",
+        "response": "option1"
+      }, {
+        "questionId": "numeracy6",
+        "response": "option1"
+      }
+    ],
+    "results": {
+      "rawScore": 6
+    }
   }
 ]
