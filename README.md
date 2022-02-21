@@ -37,7 +37,7 @@ This coding challenge is designed to assess the following
 Your task involves creating a simple assessment reporting system. You will take the response files from assessments that have already been taken and generate three reports. They include:
 1. A **diagnostic report** which tells the student where they might have areas of weakness
 2. A **progress report** which tells the student how much they have improved over the year
-3. A **feedback report** providing information about where a student went wrong on individual questions and offers hints on how answer these questions corrects
+3. A **feedback report** providing information about where a student went wrong on individual questions and offers hints on how to answer these questions correctly
 
 Any assessments with a completed date are considered complete. Incomplete assessments should be ignored
 
