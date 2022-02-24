@@ -102,7 +102,7 @@ Hint: You must first arrange the numbers in ascending order. The median is the m
 
 For us to run the application and tests, use one of the following options based on the programming language of choice:
 - **Option: PHP with Docker Compose Option**
-  1. Try using Docker Compose to run the application and tests, as this reduces dependency on the host machine
+  1. Try using Docker Compose to run the application and tests, to reduce dependency on the host machine
   2. For example, `docker-compose run test` and `docker-compose run app` to run the tests and application respectively
   3. Place the instructions in README.md
 - **Option: PHP with detailed instructions**
@@ -111,6 +111,7 @@ For us to run the application and tests, use one of the following options based 
 - **Option: JavaScript / TypeScript with NPM scripts**
   1. Try adding scripts to `package.json` to run the application and tests
   2. For example, `npm run test` and `npm run app` to run the tests and application respectively
+  3. Place the instructions in README.md
 
 ## Continuous Integration
 1. Use GitHub Actions to run tests
