@@ -95,10 +95,11 @@ Hint: You must first arrange the numbers in ascending order. The median is the m
 
 ## Development Environment - Technical Details
 1. You can choose either PHP, JavaScript or TypeScript to complete this coding challenge.
-2. Create a public repository in GitHub. Set the repository name to a UUID.
-3. As you develop, make commits to this repository
-4. We expect to see the application along with automated tests
-5. When you are complete, share the repository URL with the person who shared this exercise
+2. Create a public repository in GitHub. Set the repository name to a UUID. Generate a [UUID here](https://www.uuidgenerator.net/)
+3. No need to use a database, just load the data into memory
+4. As you develop, make commits to this repository
+5. We expect to see the application along with automated tests. No need for 100% testing coverage, just write a few tests for a few different features
+6. When you are complete, share the repository URL with the person who shared this exercise
 
 For us to run the application and tests, use one of the following options based on the programming language of choice:
 - **Option: PHP with Docker Compose Option**
