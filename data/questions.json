@@ -160,22 +160,6 @@
     }
   },
   {
-    "id": "numeracy10",
-    "stem": "What is three quarters of 1 metre in cm?",
-    "type": "multiple-choice",
-    "strand": "Measurement and Geometry",
-    "config": {
-      "options": [
-        { "id": "option1", "label": "A", "value": "0.75cm" },
-        { "id": "option2", "label": "B", "value": "75cm" },
-        { "id": "option3", "label": "C", "value": "750cm" },
-        { "id": "option4", "label": "D", "value": "7500cm" }
-      ],
-      "key": "option2",
-      "hint": "Three quarters of 100 is 75"
-    }
-  },
-  {
     "id": "numeracy11",
     "stem": "How do we write 4,520ml in litres?",
     "type": "multiple-choice",
